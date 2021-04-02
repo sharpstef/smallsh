@@ -1,0 +1,2 @@
+# smallsh
+Practice intercepting commands
